@@ -1,14 +1,21 @@
 [![Build Status](http://justinestrada.com/img/assetsbanner-772x250-rtl.jpg)](http://justinestrada.com)
-===
 
-Hi. I'm a WordPress Plugin built by the `Justin Estrada`.
+Simple Watermark
+=========================
 
-My ultra-minimal sleek watermark plugin.
+Hi. I'm a WordPress Plugin built by the [Justin Estrada](http://justinestrada.com).
 
-I require:
+`My sleek ultra-minimal watermark plugin.`
 
-* WordPress
-* jQuery
+## Installation
+
+- Requires ** WordPress v 4.7 or later ** 
+- Requires ** jQuery v 2.1.4 or later **
+
+## Screenshots
+
+![Admin Page](http://justinestrada.com/img/simple-watermark-screenshots/admin-page.jpg)
+![Single Page](http://justinestrada.com/img/simple-watermark-screenshots/single-page.jpg)
 
 © 2016 Justin Estrada
 ---------------

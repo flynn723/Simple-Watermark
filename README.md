@@ -15,7 +15,7 @@ Hi. I'm a WordPress Plugin built by the [Justin Estrada](http://justinestrada.co
 ## Screenshots
 
 ![Admin Page](http://justinestrada.com/img/simple-watermark-screenshots/admin-page.jpg)
-![Single Page](http://justinestrada.com/img/simple-watermark-screenshots/single-page.jpg)
+![Single Page](http://justinestrada.com/img/simple-watermark-screenshots/single-post.jpg)
 
 © 2016 Justin Estrada
 ---------------

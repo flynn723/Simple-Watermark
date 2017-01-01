@@ -1,4 +1,4 @@
-=== Hello Dolly ===
+=== Simple Watermark ===
 Contributors: Justin Estrada
 Requires at least: 4.0
 Stable tag: 4.0
